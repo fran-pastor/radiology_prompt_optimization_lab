@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "radnorm-agno-prompt-optimizer"
+version = "0.3.0"
+description = "Iterative prompt optimization lab for radiology normalization using Agno agents"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "agno>=2.0.0",
+  "openai>=2.0.0",
+  "matplotlib>=3.7",
+  "pydantic>=2.0",
+  "python-dotenv>=1.0"
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

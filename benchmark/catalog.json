@@ -1,0 +1,112 @@
+[
+  {
+    "canonical_name": "Chest X-ray portable AP 1 view",
+    "modality": "XR",
+    "body_part": "chest",
+    "laterality": "none",
+    "projection": "AP",
+    "portable": true,
+    "view_count": 1,
+    "canonical_id": "XR_CHEST_AP_PORTABLE_1V",
+    "subtype": null
+  },
+  {
+    "canonical_name": "Chest X-ray PA and lateral 2 views",
+    "modality": "XR",
+    "body_part": "chest",
+    "laterality": "none",
+    "projection": "PA+LAT",
+    "portable": false,
+    "view_count": 2,
+    "canonical_id": "XR_CHEST_PA_LAT_2V",
+    "subtype": null
+  },
+  {
+    "canonical_name": "Left knee X-ray 2 views",
+    "modality": "XR",
+    "body_part": "knee",
+    "laterality": "left",
+    "projection": null,
+    "portable": false,
+    "view_count": 2,
+    "canonical_id": "XR_KNEE_LEFT_2V",
+    "subtype": null
+  },
+  {
+    "canonical_name": "Right knee X-ray 2 views",
+    "modality": "XR",
+    "body_part": "knee",
+    "laterality": "right",
+    "projection": null,
+    "portable": false,
+    "view_count": 2,
+    "canonical_id": "XR_KNEE_RIGHT_2V",
+    "subtype": null
+  },
+  {
+    "canonical_name": "Left hand X-ray 3 views",
+    "modality": "XR",
+    "body_part": "hand",
+    "laterality": "left",
+    "projection": null,
+    "portable": false,
+    "view_count": 3,
+    "canonical_id": "XR_HAND_LEFT_3V",
+    "subtype": null
+  },
+  {
+    "canonical_name": "Right hand X-ray 3 views",
+    "modality": "XR",
+    "body_part": "hand",
+    "laterality": "right",
+    "projection": null,
+    "portable": false,
+    "view_count": 3,
+    "canonical_id": "XR_HAND_RIGHT_3V",
+    "subtype": null
+  },
+  {
+    "canonical_name": "Left ankle X-ray 3 views",
+    "modality": "XR",
+    "body_part": "ankle",
+    "laterality": "left",
+    "projection": null,
+    "portable": false,
+    "view_count": 3,
+    "canonical_id": "XR_ANKLE_LEFT_3V",
+    "subtype": null
+  },
+  {
+    "canonical_name": "Right ankle X-ray 3 views",
+    "modality": "XR",
+    "body_part": "ankle",
+    "laterality": "right",
+    "projection": null,
+    "portable": false,
+    "view_count": 3,
+    "canonical_id": "XR_ANKLE_RIGHT_3V",
+    "subtype": null
+  },
+  {
+    "canonical_name": "Abdomen X-ray KUB 1 view",
+    "modality": "XR",
+    "body_part": "abdomen",
+    "laterality": "none",
+    "projection": null,
+    "portable": false,
+    "view_count": 1,
+    "canonical_id": "XR_ABDOMEN_KUB_1V",
+    "subtype": "KUB"
+  },
+  {
+    "canonical_name": "Pelvis X-ray 1 or 2 views",
+    "modality": "XR",
+    "body_part": "pelvis",
+    "laterality": "none",
+    "projection": null,
+    "portable": false,
+    "view_count": null,
+    "canonical_id": "XR_PELVIS_1_2V",
+    "subtype": null
+  }
+]
