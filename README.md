@@ -150,6 +150,13 @@ Debug mode prints:
 - iteration summaries,
 - acceptance or rejection of candidate prompts.
 
+### Example optimization trajectory
+
+Below is the accuracy progression from a sample run of the lab.  
+Each accepted prompt revision improves on the current best prompt, while rejected candidates are logged but not promoted.
+
+![Prompt optimization progress from a sample execution](docs/images/accuracy_evolution.png)
+
 ## How to inspect the experiment
 
 Start with:
